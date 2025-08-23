@@ -26,7 +26,9 @@ Calculator/
 
 ## 📸 Screenshot
 
+Here’s how the calculator looks:
 
+![Calculator Screenshot](screenshot.png)
 ---
 
 
